@@ -1,6 +1,6 @@
 name: my_button_tombol_lib
-description: Custom UI component library - tombol dan teks.
-version: 0.1.0
+description: Custom UI component library - tombol, teks, dan card.
+version: 0.1.1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
