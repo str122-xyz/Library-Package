@@ -1,5 +1,4 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+library my_button_tombol_lib;
+
+export 'src/custom_button.dart';
+export 'src/custom_text.dart';
